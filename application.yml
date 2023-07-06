@@ -1,4 +1,5 @@
-insurance.provider=raj
+insurance:
+  provider: raj
 
 eureka:
   instance:
