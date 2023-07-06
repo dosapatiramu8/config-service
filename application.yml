@@ -11,6 +11,6 @@ eureka:
 
 openapi:
   service:
-    title: vendor-service doc
+    title: Open-API doc
     version: 1.0.0
     url: http://localhost:8181
